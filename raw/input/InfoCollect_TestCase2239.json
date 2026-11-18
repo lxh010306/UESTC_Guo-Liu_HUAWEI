@@ -1,0 +1,18 @@
+[
+  {
+    "broadcastTime": 1782952988996,
+    "confidence": 0.998063,
+    "latitude": 22.871463,
+    "longitude": 113.885741,
+    "rssi": -88,
+    "kindTransID": 43306717,
+    "accuracy": 4.7,
+    "locationSourceType": 3,
+    "indoor": 0,
+    "speed": 0.234465,
+    "bearing": 48.463863,
+    "floor": -100,
+    "buildingId": null,
+    "locationType": 0
+  }
+]
